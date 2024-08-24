@@ -26,6 +26,7 @@ Console.UserChatRegex=^(?<username>.+?): (?<message>.+)$
 Console.UserJoinRegex=^User (?<username>.+?) \((?<userid>-?d+)\) connected from \[::ffff:(?<endpoint>.+?)\]$
 Console.UserLeaveRegex=^User (?<username>.+?) \((?<userid>-?d+)\) disconnected\. Reason: (.+?)$
 Meta.Author=IceOfWraith
+Meta.AppConfigId=a3fd5e6c-5a7a-4fc1-ad47-9fe2f5aa7cd5
 Meta.ConfigManifest=titanfall-2config.json
 Meta.MetaConfigManifest=titanfall-2metaconfig.json
 Meta.ConfigRoot=titanfall-2.kvp
